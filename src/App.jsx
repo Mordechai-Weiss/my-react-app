@@ -16,9 +16,9 @@ export default function Board() {
         <Square value="6" />
       </div>
       <div className="board-row">
-        <button className="square">7</button>
-        <button className="square">8</button>
-        <button className="square">9</button>
+        <Square value="7" />
+        <Square value="8" />
+        <Square value="9" />
       </div>
     </>
   );
